@@ -1,0 +1,3 @@
+The zip file contains the hourly concentration data of six pollutants in 31 municipalities and provincial capitals of China, covering a timeframe from June 1, 2022, to May 31, 2023, encompassing a total of 365 dates.
+The 31 municipalities and provincial capitals are Lanzhou, Xining, Hohhot, Harbin, Tianjin, Taiyuan, Wuhan, Shenyang, Jinan, Shijiazhuang, Xi 'an, Zhengzhou, Yinchuan, Shanghai, Urumqi, Nanjing, Nanning, Nanchang, Hefei, Guangzhou, Chengdu, Kunming, Hangzhou, Chongqing, Changchun, Changsha, Beijing, Lhasa, Haikou, Fuzhou, Guiyang.
+The concentration of CO is measured in units of mg/m³, and the concentration of the other pollutants is measured in μg/m³.
